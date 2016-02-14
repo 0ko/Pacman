@@ -1,0 +1,19 @@
+git init (initalizes empty git repository)
+
+git remote add origin <git URL> (initalizes origin)
+
+git add --all (Adds everything not inside .gitignore)
+
+git add <file path> (adds single file)
+
+git commit -m "message" (creates new commit with new git state)
+
+git status (Shows what is and is not tracked)
+
+git push -u origin master (pushes to origin)
+
+git pull (pull latest version)
+
+mvn clean install (Build project)
+
+mvn integration-test -Pdesktop (run your project)
